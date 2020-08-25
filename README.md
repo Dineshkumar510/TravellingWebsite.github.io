@@ -1,1 +1,1 @@
-# TravellingWebsite.github.io
+# travellingwebsite.github.io
